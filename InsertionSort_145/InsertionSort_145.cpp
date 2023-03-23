@@ -29,6 +29,8 @@ void input()
     for (int i = 0; 1 < n; i++)                         // Membuat perulangan for untuk menyimpan data pada array
     {
         cout << "Data ke-" << (i + 1) << ": ";          // Memasukkan  atau menginputkan nilai data n
+        cin >> arr[i];                                  // Memasukkan nilai data n ke dalam Array arr
+
     }
     
 }
