@@ -32,8 +32,13 @@ void input()
         cin >> arr[i];                                  // Memasukkan nilai data n ke dalam Array arr
 
     }
-    
+};
+//Procedure Insertionsort
+void insertionsort()
+{
+    int temp;       // Membuat variabel data temporer atau penyimpanan sementara
 }
+
 int main()
 {
     std::cout << "Hello World!\n";
