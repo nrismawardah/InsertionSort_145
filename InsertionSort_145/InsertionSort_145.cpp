@@ -22,7 +22,14 @@ void input()
         }
     }
     cout << endl;                                       // Membuat jarak per baris program
-    cout << "==================" << endl;               //Membuat tampilan susunan data element array
+    cout << "======================" << endl;           // Membuat tampilan susunan data element array
+    cout << "Masukkan Element Array" << endl;
+    cout << "======================" << endl;
+
+    for (int i = 0; 1 < n; i++)                         // Membuat perulangan for untuk menyimpan data pada array
+    {
+
+    }
     
 }
 int main()
