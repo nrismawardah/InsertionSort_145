@@ -82,7 +82,9 @@ void display()
     cout << endl;                           // Output baris kosong
 }
 
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    input();            // Memanggil input
+    
 }
